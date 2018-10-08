@@ -119,3 +119,7 @@ Output: 4,4,NORTH
 * Test: mvn test
 * Run: mvn spring-boot:run
 * Packaging: mvn package
+
+## Postman colleciton
+
+https://www.getpostman.com/collections/eee8aeebdc91860f5355
